@@ -1,4 +1,4 @@
-# RoboMaster 算法组面试准备
+# RoboMaster 算法组准备
 
 这是我在面试前为准备 PRIME 战队算法组而建立的实践仓库。
 
